@@ -1,0 +1,15 @@
+/Users/arshia/Workspace/PG/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.deps.json
+/Users/arshia/Workspace/PG/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.dll
+/Users/arshia/Workspace/PG/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.pdb
+/Users/arshia/Workspace/PG/GymManagement.Application/bin/Debug/net8.0/GymManagement.Domain.dll
+/Users/arshia/Workspace/PG/GymManagement.Application/bin/Debug/net8.0/GymManagement.Domain.pdb
+/Users/arshia/Workspace/PG/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.csproj.AssemblyReference.cache
+/Users/arshia/Workspace/PG/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arshia/Workspace/PG/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.AssemblyInfoInputs.cache
+/Users/arshia/Workspace/PG/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.AssemblyInfo.cs
+/Users/arshia/Workspace/PG/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.csproj.CoreCompileInputs.cache
+/Users/arshia/Workspace/PG/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.csproj.CopyComplete
+/Users/arshia/Workspace/PG/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.dll
+/Users/arshia/Workspace/PG/GymManagement.Application/obj/Debug/net8.0/refint/GymManagement.Application.dll
+/Users/arshia/Workspace/PG/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.pdb
+/Users/arshia/Workspace/PG/GymManagement.Application/obj/Debug/net8.0/ref/GymManagement.Application.dll

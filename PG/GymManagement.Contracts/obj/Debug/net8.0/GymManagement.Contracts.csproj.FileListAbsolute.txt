@@ -1,0 +1,11 @@
+/Users/arshia/Workspace/PG/GymManagement.Contracts/bin/Debug/net8.0/GymManagement.Contracts.deps.json
+/Users/arshia/Workspace/PG/GymManagement.Contracts/bin/Debug/net8.0/GymManagement.Contracts.dll
+/Users/arshia/Workspace/PG/GymManagement.Contracts/bin/Debug/net8.0/GymManagement.Contracts.pdb
+/Users/arshia/Workspace/PG/GymManagement.Contracts/obj/Debug/net8.0/GymManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arshia/Workspace/PG/GymManagement.Contracts/obj/Debug/net8.0/GymManagement.Contracts.AssemblyInfoInputs.cache
+/Users/arshia/Workspace/PG/GymManagement.Contracts/obj/Debug/net8.0/GymManagement.Contracts.AssemblyInfo.cs
+/Users/arshia/Workspace/PG/GymManagement.Contracts/obj/Debug/net8.0/GymManagement.Contracts.csproj.CoreCompileInputs.cache
+/Users/arshia/Workspace/PG/GymManagement.Contracts/obj/Debug/net8.0/GymManagement.Contracts.dll
+/Users/arshia/Workspace/PG/GymManagement.Contracts/obj/Debug/net8.0/refint/GymManagement.Contracts.dll
+/Users/arshia/Workspace/PG/GymManagement.Contracts/obj/Debug/net8.0/GymManagement.Contracts.pdb
+/Users/arshia/Workspace/PG/GymManagement.Contracts/obj/Debug/net8.0/ref/GymManagement.Contracts.dll

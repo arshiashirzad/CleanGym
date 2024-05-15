@@ -1,0 +1,17 @@
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/bin/Debug/net8.0/GymManagement.infrastructure.deps.json
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/bin/Debug/net8.0/GymManagement.infrastructure.dll
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/bin/Debug/net8.0/GymManagement.infrastructure.pdb
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/bin/Debug/net8.0/GymManagement.Application.dll
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/bin/Debug/net8.0/GymManagement.Domain.dll
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/bin/Debug/net8.0/GymManagement.Application.pdb
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/bin/Debug/net8.0/GymManagement.Domain.pdb
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/GymManagement.infrastructure.csproj.AssemblyReference.cache
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/GymManagement.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/GymManagement.infrastructure.AssemblyInfoInputs.cache
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/GymManagement.infrastructure.AssemblyInfo.cs
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/GymManagement.infrastructure.csproj.CoreCompileInputs.cache
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/GymManagement.infrastructure.csproj.CopyComplete
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/GymManagement.infrastructure.dll
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/refint/GymManagement.infrastructure.dll
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/GymManagement.infrastructure.pdb
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/ref/GymManagement.infrastructure.dll
