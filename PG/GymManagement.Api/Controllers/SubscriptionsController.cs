@@ -14,7 +14,6 @@ public class SubscriptionsController : ControllerBase
     {
         _subscriptionsservice = subscriptionsservice;
     }
-
     [HttpPost]
     public IActionResult CreateSubscription(createSubscriptionRequest request)
     {
