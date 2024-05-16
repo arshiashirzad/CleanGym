@@ -37,3 +37,4 @@
 /Users/arshia/Workspace/PG/GymManagement.Api/obj/Debug/net8.0/ref/GymManagement.Api.dll
 /Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/GymManagement.Contracts.dll
 /Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/GymManagement.Contracts.pdb
+/Users/arshia/Workspace/PG/GymManagement.Api/obj/Debug/net8.0/GymManagement.Api.sourcelink.json

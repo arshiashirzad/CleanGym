@@ -9,3 +9,4 @@
 /Users/arshia/Workspace/PG/GymManagement.Domain/obj/Debug/net8.0/refint/GymManagement.Domain.dll
 /Users/arshia/Workspace/PG/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.pdb
 /Users/arshia/Workspace/PG/GymManagement.Domain/obj/Debug/net8.0/ref/GymManagement.Domain.dll
+/Users/arshia/Workspace/PG/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.sourcelink.json
