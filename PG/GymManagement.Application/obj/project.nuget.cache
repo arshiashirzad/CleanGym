@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nIXZtxvxWioIM/OvrD9XkqvRY/8lw1sBrfWBGf+wlGPGskKa7VriseMRi7wcLcHq4Kn/dyqs2c9dzgQerv87Dg==",
+  "dgSpecHash": "ndZeWcN016sQU/G5xIZVEgp9wdaFDWg9HQ/IQ6FzwqrZhsL0+Dd+cKHNniprXxbwQTr1Rsm/K0sQbG47bwN5iQ==",
   "success": true,
   "projectFilePath": "/Users/arshia/Workspace/PG/GymManagement.Application/GymManagement.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/arshia/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,12 +1,16 @@
+using GymManagement.Application;
+using GymManagement.Application.Services;
+using GymManagement.infrastructure;
 using Microsoft.AspNetCore.Http.HttpResults;
 
 var builder = WebApplication.CreateBuilder(args);
-
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
+builder.Services.AddApplication()
+    .AddInfrastructure();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -17,10 +21,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
 app.MapControllers();
 app.UseRouting();
 app.Run();

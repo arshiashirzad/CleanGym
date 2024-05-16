@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XeqAT9VZhJanayOTaoJrM1WQQbJtHVal9fmNGWN5xXDRrknyMhQqhdz0Dvnj48t4qOdbIKYxuZiXenWmV0mV8Q==",
+  "dgSpecHash": "Ff0dsqYgRY5Dx0iFjsoNF5GNPr/a30b6C5daWMO/DJI/LMaHxiYVBDrSC9kfOKo0PMtLAG9IVMdRoVvBFtTGNw==",
   "success": true,
   "projectFilePath": "/Users/arshia/Workspace/PG/GymManagement.Api/GymManagement.Api.csproj",
   "expectedPackageFiles": [
     "/Users/arshia/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "/Users/arshia/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "/Users/arshia/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/arshia/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/arshia/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",

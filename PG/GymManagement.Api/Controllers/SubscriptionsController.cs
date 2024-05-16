@@ -8,9 +8,9 @@ namespace GymManagement.Api.Controllers;
 public class SubscriptionsController : ControllerBase
 {
 
-    private readonly ISubscriptionsService _subscriptionsservice;
+    private readonly ISubscriptionsWriteService _subscriptionsservice;
 
-    public SubscriptionsController(ISubscriptionsService subscriptionsservice)
+    public SubscriptionsController(ISubscriptionsWriteService subscriptionsservice)
     {
         _subscriptionsservice = subscriptionsservice;
     }
