@@ -1,4 +1,3 @@
-using GymManagement.Application.Services;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace GymManagement.Application;
@@ -10,7 +9,7 @@ public static class DependencyInjection
         services.AddMediatR(options =>
         {
             options.RegisterServicesFromAssemblyContaining(typeof(DependencyInjection));
-        })
+        });
         return services;
     }
 }

@@ -1,5 +1,4 @@
 using GymManagement.Application;
-using GymManagement.Application.Services;
 using GymManagement.infrastructure;
 using Microsoft.AspNetCore.Http.HttpResults;
 
