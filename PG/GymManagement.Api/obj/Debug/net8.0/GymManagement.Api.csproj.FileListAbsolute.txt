@@ -38,3 +38,8 @@
 /Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/GymManagement.Contracts.dll
 /Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/GymManagement.Contracts.pdb
 /Users/arshia/Workspace/PG/GymManagement.Api/obj/Debug/net8.0/GymManagement.Api.sourcelink.json
+/Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/MediatR.dll
+/Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/GymManagement.infrastructure.dll
+/Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/GymManagement.infrastructure.pdb

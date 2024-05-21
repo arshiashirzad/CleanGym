@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0RmLeaKs/rgsr5yyNG3wGVhROvFx/bEl+D7jUbp0QqboLHOjcm4xiRUaeoadwApyHyUnXkj/iGEqAaSDaIIGDQ==",
+  "dgSpecHash": "+8CSPnMrIHlZ4acvUR9dnXHSS1+t4+PceqrFyZZ7jLF4ZBcjAeJEKInqdnLaGhfe73rxdwz2wz62vhBEqFvQMg==",
   "success": true,
   "projectFilePath": "/Users/arshia/Workspace/PG/GymManagement.Api/GymManagement.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/arshia/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
     "/Users/arshia/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/arshia/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/arshia/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
