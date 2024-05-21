@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ndZeWcN016sQU/G5xIZVEgp9wdaFDWg9HQ/IQ6FzwqrZhsL0+Dd+cKHNniprXxbwQTr1Rsm/K0sQbG47bwN5iQ==",
+  "dgSpecHash": "gM4sTe1noTaA/sbpdXqwoyZ1b73aBKRWXliknfr8DZAKyj8nDLuFy4kdebIUv3pRNnwvlyRTgOmqvn0cC0vCIg==",
   "success": true,
   "projectFilePath": "/Users/arshia/Workspace/PG/GymManagement.Application/GymManagement.Application.csproj",
   "expectedPackageFiles": [
+    "/Users/arshia/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/arshia/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
   ],
   "logs": []
