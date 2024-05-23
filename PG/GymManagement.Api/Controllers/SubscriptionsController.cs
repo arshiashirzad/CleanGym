@@ -1,3 +1,4 @@
+using ErrorOr;
 using GymManagement.Contracts.Subscriptions;
 using Microsoft.AspNetCore.Mvc;
 using MediatR;
@@ -19,9 +20,13 @@ public class SubscriptionsController : ControllerBase
         var command =new CreateSubscriptionCommand(request.SubscriptionType.ToString() ,
             request.adminId
             );
-        var subscriptionId= await _mediator.Send(command);
+        var createSubscriptionId= await _mediator.Send(command);
+        if (createSubscriptionId.IsError)
+        {
+            return Problem();
+        }
         var response = new SubscriptionResponse(
-            subscriptionId,
+            createSubscriptionId.Value,
             request.SubscriptionType);
         return Ok(response);
     }
