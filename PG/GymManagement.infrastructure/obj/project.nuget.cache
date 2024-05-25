@@ -1,13 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "tWWggYfEa+qKvFPX0rp36PkATm3tqs83xLJ9qNeYlNC8+XIwj5kqsCov9GzaFghDbdTtQ848CSiOTZKgD3FOnQ==",
+  "dgSpecHash": "UB60bQE3ZJlAB9ii+wg78iWQW1ZV49LjQbpLq3B4pEkaRExvqzltz4DzFyMnb42Z5+vQ7R+/bSdWzjAdWXX+2A==",
   "success": true,
   "projectFilePath": "/Users/arshia/Workspace/PG/GymManagement.infrastructure/GymManagement.infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/arshia/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
     "/Users/arshia/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/arshia/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/Users/arshia/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+    "/Users/arshia/.nuget/packages/microsoft.entityframeworkcore/8.0.5/microsoft.entityframeworkcore.8.0.5.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.5/microsoft.entityframeworkcore.abstractions.8.0.5.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.5/microsoft.entityframeworkcore.analyzers.8.0.5.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/arshia/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
