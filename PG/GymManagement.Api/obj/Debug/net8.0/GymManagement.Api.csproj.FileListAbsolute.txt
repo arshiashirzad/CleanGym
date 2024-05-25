@@ -43,3 +43,4 @@
 /Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/GymManagement.infrastructure.dll
 /Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/GymManagement.infrastructure.pdb
+/Users/arshia/Workspace/PG/GymManagement.Api/bin/Debug/net8.0/ErrorOr.dll
