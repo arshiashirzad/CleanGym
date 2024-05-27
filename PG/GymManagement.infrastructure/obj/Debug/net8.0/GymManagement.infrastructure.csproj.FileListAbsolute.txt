@@ -16,3 +16,5 @@
 /Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/GymManagement.infrastructure.pdb
 /Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/ref/GymManagement.infrastructure.dll
 /Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/GymManagement.infrastructure.sourcelink.json
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/bin/Debug/net8.0/GymManagement.infrastructure.runtimeconfig.json
+/Users/arshia/Workspace/PG/GymManagement.infrastructure/obj/Debug/net8.0/GymManagement.infrastructure.genruntimeconfig.cache

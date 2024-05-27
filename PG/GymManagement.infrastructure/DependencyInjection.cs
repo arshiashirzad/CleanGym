@@ -1,5 +1,7 @@
 using GymManagement.Application.Common.Interfaces;
+using GymManagement.infrastructure.Common.Persistence;
 using GymManagement.infrastructure.Subscriptions.Persistence;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace GymManagement.infrastructure;
@@ -8,10 +10,7 @@ public static class DependencyInjection
 {
     public static IServiceCollection AddInfrastructure(this IServiceCollection services)
     {
-        // services.AddMediatR(options =>
-        // {
-        //     options.RegisterServicesFromAssemblyContaining(typeof(DependencyInjection));
-        // });
+        services.AddDbContext<GymManagementDbContext>(options => options.UseSqlite("Data Source = GymManagement.db"));
         services.AddScoped<ISubscriptionsRepository , SubscriptionsRepository>();
         return services;
     }
